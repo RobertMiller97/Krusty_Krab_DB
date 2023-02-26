@@ -6,3 +6,4 @@ job_desc varchar(100),
 hourly_pay decimal(5,2),
 hire_date date
 );
+
