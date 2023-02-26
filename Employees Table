@@ -1,9 +1,0 @@
-Create table KKEmployees(
-employee_id int,
-first_name varchar(100),
-last_name varchar(100),
-job_desc varchar(100),
-hourly_pay decimal(5,2),
-hire_date date
-);
-
