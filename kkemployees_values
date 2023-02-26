@@ -1,0 +1,15 @@
+
+insert into kkemployees 
+values 
+(01,"Eugene", "Krabs", "GM", 60.00, "1980-01-01"),
+(02,"Spongebob", "Squarepants", "Assistant GM", 50.00, "1980-01-02"),
+(03,"Squidward", "Tentacles", "Cashier", 15.00, "1980-01-02"),
+(04,"Plankton", "Sheldon", "Maintenance", 20.00, "1990-03-01"),
+(05,"Patrick", "Star", "Cook", 10.00, "1985-06-04"),
+(06,"Sandy", "Cheeks", "Cook", 13.00, "2000-12-02"),
+(07,"Karen", "Sheldon", "Maintenance", 15.00, "2002-01-02"),
+(08,"King", "Neptune", "Gaurd", 20.00, "2003-01-02"),
+(09,"Mindy", "Neptune", "Gaurd", 20.00, "2003-01-02"),
+(10,"Puff", "Fish", "Driver", 12.00, "2004-08-06"),
+(11,"Pearl", "Krabs", "Driver", 14.00, "2004-08-06"),
+(12,"Larry", "Lobster", "Server", 12.00, "2004-08-06");
